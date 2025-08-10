@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img alt="Neelnormous" src="https://img.shields.io/badge/🏋️‍♂️%20Neelnormous-AI%20Workout%20Generator-1e293b?style=for-the-badge&logo=thunderbird&logoColor=white">
+  <img alt="Neelnormous" src="https://img.shields.io/badge/🏋️‍♂️%20Neelnormous-%20Workout%20Generator-1e293b?style=for-the-badge&logo=thunderbird&logoColor=white">
 </p>
 
 <h1 align="center">🏋️‍♂️ Neelnormous – <em> Workout Generator</em></h1>
