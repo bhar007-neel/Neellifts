@@ -3,7 +3,7 @@
   <img alt="Neelnormous" src="https://img.shields.io/badge/🏋️‍♂️%20Neelnormous-AI%20Workout%20Generator-1e293b?style=for-the-badge&logo=thunderbird&logoColor=white">
 </p>
 
-<h1 align="center">🏋️‍♂️ Neelnormous – <em>AI-Powered Workout Generator</em></h1>
+<h1 align="center">🏋️‍♂️ Neelnormous – <em> Workout Generator</em></h1>
 
 <p align="center">
   <a href="https://neellifts.netlify.app/">
